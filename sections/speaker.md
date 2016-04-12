@@ -1,4 +1,3 @@
-## Speaker: Robert Boxall
+## Speaker: Danilo Sato
 
-* Gogo Air
-* Former Lead Netflix engineer 
+* Thoughtworks

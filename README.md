@@ -1,4 +1,4 @@
-# CJUG Meeting Introduction Template
+# IJUG Meeting Introduction Template
 
 This template uses [Reveal.js](https://github.com/hakimel/reveal.js/) to construct a meeting intro for the Chicago Java Users Group. 
 
@@ -14,6 +14,8 @@ Execute the following command from shell:
 
 ```bash
 python -m SimpleHTTPServer
+or
+python -m http.server
 ```
 
 Then point your browser at [http://localhost:8000](http://localhost:8000)# ijug-meeting-intro

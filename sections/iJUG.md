@@ -1,12 +1,5 @@
 ## Illinois Java Users Group
-
-September 8th, 2015 <!-- Change -->
-
-Robert Boxall: Java/Spring Microservice Cloud development <!-- Change -->
-<div style="background-color: black; margin-top: 30px;">
-	<img src="images/ijug.jpg" style="border: none; box-shadow: none;"/>
-</div>
-
+<img src="/images/join.me-background-79-virtual.jpg" style="width:512px;height:372px;" style="background-color:white;"/>
 --section--
 What is the IllinoisJUG?</p>
 Illinois Java Users Group is dedicated to the helping you.
@@ -16,33 +9,32 @@ Illinois Java Users Group is dedicated to the helping you.
 * Mentorship and career opportunities
 * Have fun
 
---section--
-
-## Useful stats
-
-* Fastest Growing Java User Group In Chicago
-* New location went from 0 to 250+ members in 30 days
-* **1** meetings per month
-* **60 - 150** Attendees at our Meetups
-
 
 --section--
 
-## Upcoming iJUG Events
+## CHICAGO.IllinoisJUG.org Events &nbsp; 
 Meeting Director: David Greenfield</br>
 </br>
-October 13, 2015...</br> <!-- Change -->
-* Brett Lindsley Presents <!-- Change -->
-"Java/Spring Microservice Cloud Development"</br> <!-- Change -->
+May 10th, 2016...</br> <!-- Change -->
+* Robert Boxall Presents <!-- Change -->
+"HandsOn DevOps Design/Implementation"</br> <!-- Change -->
 </br>
-November 10, 2015...</br> <!-- Change -->
-* TENTATIVE: Derek Ashmore Presents</br> <!-- Change -->
-"Java Architect and Microservices"<!-- Change -->
+June 14th, 2016...</br> <!-- Change -->
+* Sachin Dole & AWS SPEAKER Presents</br> <!-- Change -->
+"DevOp's & AWS + ????" <!-- Change -->
 
 
 --section--
-## New and Notable!
-* Considering Lunch n' Learns? 
+## VIRTUAL.IllinoisJUG.org Events
+Meeting Directors Mariano Gonzalez & Rob Mills
+</br>
+April 14th, 2016 LUNCH...</br> <!-- Change -->
+* Sachin Dole Presents</br> <!-- Change -->
+"Intro to AWS" <!-- Change -->
+</br>
+TBD, 2016...</br> <!-- Change -->
+* Josh Long Presents</br> <!-- Change -->
+"Cloud Native Java"</br> <!-- Change -->
 
 --section--
 ## Why get involved in a JUG?
